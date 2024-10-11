@@ -20,12 +20,16 @@ Feel free to reach out at [kinuthiakaranja0@gmail.com](mailto:kinuthiakaranja0@g
 
 <hr>
 
+### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinuthi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kinuthi's top languages" />
 </p>
 
-<hr>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinuthi&theme=tokyonight" alt="kinuthi's streak stats" />
+</p>
+
+### 📈 My WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kinuthi&api_domain=wakatime.com&theme=radical" alt="Michael's WakaTime stats" />
 </p>
